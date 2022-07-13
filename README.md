@@ -12,4 +12,4 @@ My name is Shaye (she/her), and I am currently a fourth-year Math major at Loyol
 ### Connect with Me!
 
 ### Check out some of my repo's ↓↓↓
-<img src="{https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white}" />
+<img src="{https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png}" />
