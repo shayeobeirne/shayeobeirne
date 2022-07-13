@@ -19,6 +19,9 @@ My name is Shaye (she/her), and I am currently a fourth-year Math major at Loyol
 
 <img align="left" alt="Java" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" />
 
+<img align="left" alt="Java" width="30px" src="https://digitalresearch.bsu.edu/studentsymposium2021/files/original/0819f70bc2e7a72233fa0c02fb8b77cc.png" />
+
+###
 
 ### Connect with Me!
 
