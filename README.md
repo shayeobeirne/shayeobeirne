@@ -2,6 +2,12 @@
 
 <p> My name is Shaye (she/her), and I am currently a fourth-year Math major at Loyola Marymount University with a double minor in Computer Science and Economics. Currently based in Los Angeles, CA 📍 </p>
 
+### Connect with Me!
+
+<img align="left" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<br />
+
 ### Currently Learning:
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -29,13 +35,8 @@
  
 <br />
 
-### Connect with Me!
-
-<img align="left" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-<br />
 
 ### Check out some of my repo's ↓↓↓
-<img src="{https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png}" />
+
 
 
