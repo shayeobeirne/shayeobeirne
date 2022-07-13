@@ -36,7 +36,7 @@
 <br />
 
 
-### Check out some of my repo's ↓↓↓
+### Check out some of my projects ↓↓↓
 
 
 
