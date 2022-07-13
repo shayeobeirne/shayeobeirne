@@ -8,6 +8,8 @@
 
 <img align="left" alt="Java" width="30px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 
+<br />
+
 ###
 
 ### Languages and Tools:
