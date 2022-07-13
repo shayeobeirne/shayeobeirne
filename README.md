@@ -17,6 +17,9 @@ My name is Shaye (she/her), and I am currently a fourth-year Math major at Loyol
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 
+<img align="left" alt="Java" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" />
+
+
 ### Connect with Me!
 
 ### Check out some of my repo's ↓↓↓
