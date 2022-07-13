@@ -10,3 +10,5 @@ My name is Shaye (she/her), and I am currently a fourth-year Math major at Loyol
 
 
 ### Connect with Me!
+
+### Check out some of my repo's ↓↓↓
