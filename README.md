@@ -3,8 +3,9 @@
 My name is Shaye (she/her), and I am currently a fourth-year Math major at Loyola Marymount University with a double minor in Computer Science and Economics. Currently based in Los Angeles, CA 📍
 
 ### Currently Learning:
-- SQL
-- Tableau
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="Java" width="30px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -21,7 +22,7 @@ My name is Shaye (she/her), and I am currently a fourth-year Math major at Loyol
 
 <img align="left" alt="Java" width="30px" src="https://digitalresearch.bsu.edu/studentsymposium2021/files/original/0819f70bc2e7a72233fa0c02fb8b77cc.png" />
  
-
+//
 ###
 
 ### Connect with Me!
