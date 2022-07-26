@@ -22,12 +22,12 @@
 <img align="left" alt="Java" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" />
 
 <img align="left" alt="Java" width="30px" src="https://digitalresearch.bsu.edu/studentsymposium2021/files/original/0819f70bc2e7a72233fa0c02fb8b77cc.png" />
- 
+
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
 <br />
 
 ### Currently Learning:
-
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="Java" width="30px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 
