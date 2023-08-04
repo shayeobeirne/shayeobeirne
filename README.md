@@ -1,6 +1,6 @@
 ### Welcome!
 
-<p> My name is Shaye (she/her), and I am currently a fourth-year Math major at Loyola Marymount University with a double minor in Computer Science and Economics. Currently based in Los Angeles, CA 📍 </p>
+<p> My name is Shaye (she/her), and I am currently a Graduate Student in Business Analytics at Loyola Marymount University. I graduated from LMU in May of 2023 with a Bachelor's in Mathematics and a double minor in Computer Science and Economics. Currently based in Los Angeles, CA 📍 </p>
 
 ### Connect with Me!
 
