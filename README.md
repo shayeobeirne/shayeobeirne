@@ -31,10 +31,6 @@
 
 <br />
 
-### Currently Learning:
-
-<br />
-
 ### Check out some of my projects ↓↓↓
 
 
